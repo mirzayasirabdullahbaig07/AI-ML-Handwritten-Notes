@@ -1,7 +1,7 @@
 # 🧠 AI & Machine Learning Handwritten Notes by Mirza Yasir Abdullah Baig
 
 Welcome to my collection of **handwritten notes** created during my journey to become a **Machine Learning Engineer**.  
-These notes cover essential topics in **Python, OOP, Statistics, Linear Algebra, Calculus, and Probability**, all fundamental for mastering **AI and ML**.
+These notes cover essential topics in **Python, OOP, DSA, Statistics, Linear Algebra, Calculus, and Probability**, all fundamental for mastering **AI and ML**.
 
 ---
 
@@ -9,14 +9,15 @@ These notes cover essential topics in **Python, OOP, Statistics, Linear Algebra,
 
 Each PDF file in this repository contains neatly written and concept-focused notes prepared while studying **Artificial Intelligence**, **Machine Learning**, and **Mathematics for AI**.
 
-| No. | Topic | File | Description |
-|-----|--------|------|--------------|
-| 01 | Python | [01_Python.pdf](01_Python.pdf) | Basics of Python for AI & ML |
-| 02 | Object-Oriented Programming | [02_OOP.pdf](02_OOP.pdf) | Concepts of OOP in Python |
-| 04 | Statistics | [04_Statistics.pdf](04_Statistics.pdf) | Statistical foundations for ML |
-| 05 | Linear Algebra | [05_Linear_Algebra.pdf](05_Linear_Algebra.pdf) | Vectors, matrices, and transformations |
-| 06 | Calculus | [06_Calculus.pdf](06_Calculus.pdf) | Derivatives and gradients for ML optimization |
-| 07 | Probability | [07_Probability.pdf](07_Probability.pdf) | Probability concepts for AI & ML models |
+| No. | Topic | GitHub File | Google Drive (Download) | Description |
+|:---:|:--------------------------|:----------------------------|:------------------------------------------|:--------------------------------|
+| 01 | Python | [01_Python.pdf](01_Python.pdf) | [📥 Download](https://drive.google.com/file/d/1d_9mMQtcfuPvx5iZ4N6HEhlMTuhei-Mn/view?usp=drive_link) | Basics of Python for AI & ML |
+| 02 | Object-Oriented Programming (OOP) | [02_OOP.pdf](02_OOP.pdf) | [📥 Download](https://drive.google.com/file/d/12NBVUhjKzybvqhJJ8oCM_cyr64vhGiX7/view?usp=drive_link) | Concepts of OOP in Python |
+| 03 | Data Structures & Algorithms (DSA) | [03_DSA.pdf](https://github.com/mirzayasirabdullahbaig07/AI-ML-Handwritten-Notes/blob/main/03_DSA.pdf) | [📥 Download](https://drive.google.com/file/d/1SDOc2u5Fwu4F1pdrVS5SVRfapYRqMhUi/view?usp=drive_link) | Core DSA concepts for coding & interviews |
+| 04 | Statistics | [04_Statistics.pdf](04_Statistics.pdf) | [📥 Download](https://drive.google.com/file/d/10KOQQ4sDWSZYI3CLlIsjWjcf2_TGKbRz/view?usp=drive_link) | Statistical foundations for ML |
+| 05 | Linear Algebra | [05_Linear_Algebra.pdf](05_Linear_Algebra.pdf) | [📥 Download](https://drive.google.com/file/d/1hTsQQP8VZ417vdmJUcIGBAbZzSpVb0L7/view?usp=drive_link) | Vectors, matrices, and transformations |
+| 06 | Calculus | [06_Calculus.pdf](06_Calculus.pdf) | [📥 Download](https://drive.google.com/file/d/16HOf-qZZpstTgKIa6Q27u3Kd1j6b4rNi/view?usp=drive_link) | Derivatives and gradients for ML optimization |
+| 07 | Probability | [07_Probability.pdf](07_Probability.pdf) | [📥 Download](https://drive.google.com/file/d/1nGdrzzw9ZsLHsKjTVwZLMYr2jP89WUz1/view?usp=drive_link) | Probability concepts for AI & ML models |
 
 ---
 
@@ -33,6 +34,7 @@ I created these notes to:
 
 - 🐍 Python Programming  
 - 💻 Object-Oriented Programming (OOP)  
+- 🧮 Data Structures & Algorithms (DSA)  
 - 📊 Statistics & Probability  
 - 📐 Linear Algebra  
 - 🔢 Calculus  
@@ -41,9 +43,9 @@ I created these notes to:
 
 ## 🚀 How to Use
 
-1. Click on any PDF file above to open it directly on GitHub.  
-2. You can **download** or **print** the notes for offline study.  
-3. Use them as a companion while learning Python, ML, or Math for AI.
+1. Click any **GitHub file** to view it directly.  
+2. If GitHub preview fails, use the **Google Drive download links**.  
+3. You can **download or print** the notes for offline study.
 
 ---
 
@@ -51,8 +53,8 @@ I created these notes to:
 
 If these notes help you, please:
 - ⭐ **Star this repository** to support my work  
-- 🔁 **Share it** with other learners  
-- 💡 **Contribute** by suggesting more topics or corrections  
+- 🔁 **Share** with other learners  
+- 💡 **Contribute** by suggesting new topics or corrections  
 
 ---
 
