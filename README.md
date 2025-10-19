@@ -63,8 +63,8 @@ If these notes help you, please:
 **Mirza Yasir Abdullah Baig**  
 📍 Lahore, Punjab, Pakistan  
 🎓 Computer Science Graduate | Machine Learning & AI Enthusiast  
-🔗 [LinkedIn](https://linkedin.com/in/mirzayasirabdullahbaig07) | [GitHub](https://github.com/mirzayasirabdullahbaig07)
-
+🔗 [LinkedIn](https://linkedin.com/in/mirzayasirabdullahbaig07) | [GitHub](https://github.com/mirzayasirabdullahbaig07) | [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)
+ 
 ---
 
 ⭐ *If you found these notes helpful, don’t forget to give the repo a star — it motivates me to share more learning resources!* 🌟
