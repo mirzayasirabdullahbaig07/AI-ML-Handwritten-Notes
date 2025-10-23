@@ -18,6 +18,7 @@ Each PDF file in this repository contains neatly written and concept-focused not
 | 05 | Linear Algebra | [05_Linear_Algebra.pdf](05_Linear_Algebra.pdf) | [📥 Download](https://drive.google.com/file/d/1hTsQQP8VZ417vdmJUcIGBAbZzSpVb0L7/view?usp=drive_link) | Vectors, matrices, and transformations |
 | 06 | Calculus | [06_Calculus.pdf](06_Calculus.pdf) | [📥 Download](https://drive.google.com/file/d/16HOf-qZZpstTgKIa6Q27u3Kd1j6b4rNi/view?usp=drive_link) | Derivatives and gradients for ML optimization |
 | 07 | Probability | [07_Probability.pdf](07_Probability.pdf) | [📥 Download](https://drive.google.com/file/d/1nGdrzzw9ZsLHsKjTVwZLMYr2jP89WUz1/view?usp=drive_link) | Probability concepts for AI & ML models |
+| 08 | Databases | [08_Databases.pdf](08_Databases.pdf) | [📥 Download](https://drive.google.com/file/d/1jFEzZR-w-OUbLfH-BjS4T1vtiBBZenbE/view?usp=drive_link) | Databases for AI & ML models |
 
 ---
 
