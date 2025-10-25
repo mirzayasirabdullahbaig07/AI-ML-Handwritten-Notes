@@ -38,7 +38,8 @@ I created these notes to:
 - 🧮 Data Structures & Algorithms (DSA)  
 - 📊 Statistics & Probability  
 - 📐 Linear Algebra  
-- 🔢 Calculus  
+- 🔢 Calculus
+- 🧠 Databases (SQL & NoSQL)
 
 ---
 
