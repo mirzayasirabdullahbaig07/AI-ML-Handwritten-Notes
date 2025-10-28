@@ -64,7 +64,7 @@ If these notes help you, please:
 ## 👨‍💻 About the Author
 
 **Mirza Yasir Abdullah Baig**  
-📍 Lahore, Punjab, Pakistan  
+📍  Pakistan  
 🎓 Computer Science Graduate | Machine Learning & AI Enthusiast  
 🔗 [LinkedIn](https://linkedin.com/in/mirzayasirabdullahbaig07) | [GitHub](https://github.com/mirzayasirabdullahbaig07) | [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)
  
