@@ -66,7 +66,7 @@ If these notes help you, please:
 **Mirza Yasir Abdullah Baig**  
 📍  Pakistan  
 🎓 Computer Science Graduate | Machine Learning & AI Enthusiast  
-🔗 [LinkedIn](https://linkedin.com/in/mirzayasirabdullahbaig07) | [GitHub](https://github.com/mirzayasirabdullahbaig07) | [Kaggle](https://www.kaggle.com/mirzayasirabdullah07)
+🔗 [LinkedIn](https://linkedin.com/in/mirzayasirabdullahbaig07) | [GitHub](https://github.com/mirzayasirabdullahbaig07) | [Kaggle](https://www.kaggle.com/mirzayasirabdullah07) | [Leetcode](https://leetcode.com/u/mirzayasirabdullahbaig/)
  
 ---
 
