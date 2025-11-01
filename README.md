@@ -1,7 +1,7 @@
 # 🧠 AI & Machine Learning Handwritten Notes by Mirza Yasir Abdullah Baig
 
 Welcome to my collection of **handwritten notes** created during my journey to become a **Machine Learning Engineer**.  
-These notes cover essential topics in **Python, OOP, DSA, Statistics, Linear Algebra, Calculus, and Probability**, all fundamental for mastering **AI and ML**.
+These notes cover essential topics in **Python, OOP, DSA, Statistics, Linear Algebra, Calculus, Probability, Databases, and Machine learning**, all fundamental for mastering **AI and ML**.
 
 ---
 
