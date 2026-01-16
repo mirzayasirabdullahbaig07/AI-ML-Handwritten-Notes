@@ -20,7 +20,8 @@ Each PDF file in this repository contains neatly written and concept-focused not
 | 07 | Probability | [07_Probability.pdf](07_Probability.pdf) | [📥 Download](https://drive.google.com/file/d/1nGdrzzw9ZsLHsKjTVwZLMYr2jP89WUz1/view?usp=drive_link) | Probability concepts for AI & ML models |
 | 08 | Databases | [08_Databases.pdf](08_Databases.pdf) | [📥 Download](https://drive.google.com/file/d/1jFEzZR-w-OUbLfH-BjS4T1vtiBBZenbE/view?usp=drive_link) | Databases for AI & ML models |
 | 09 | Machine Learning | [09_Machine_Learning.pdf](09_Machine_Learning.pdf) | [📥 Download](https://drive.google.com/file/d/11oJQ0i2sT9ldtPAh1ROsyyoToljSgtEU/view?usp=drive_link) | Machine Learning Complete Notes |
-| 10 | Deep Learning | [10_Deep_Learning.pdf](10_Deep_Learning.pdf) | [📥 Download](https://drive.google.com/file/d/1w96CapKNiCxSTrfKoWhjL1hAxSmTY4fq/view?usp=sharing) | Machine Learning Complete Notes |
+| 10 | Deep Learning | [10_Deep_Learning.pdf](10_Deep_Learning.pdf) | [📥 Download](https://drive.google.com/file/d/1w96CapKNiCxSTrfKoWhjL1hAxSmTY4fq/view?usp=sharing) | Deep Learning Complete Notes |
+| 11 | AI/ML Interview | [10_Deep_Learning.pdf](11_AIML-Interview-Questions.pdf) | [📥 Download](https://drive.google.com/file/d/1rSWW8AvPVW7eBbsH_PBoEsllw-3-4xa8/view?usp=sharing) | AI/ML Interview HandWritten Notes |
 
 ---
 
