@@ -42,7 +42,7 @@ I created these notes to:
 - 📊 Statistics & Probability  
 - 📐 Linear Algebra  
 - 🔢 Calculus
-- 🧠 Databases (SQL & NoSQL)
+- 🧠 Databases (SQL, NoSQL & MySQL)
 
 ---
 
