@@ -36,13 +36,17 @@ I created these notes to:
 
 ## 🧩 Topics Covered
 
-- 🐍 Python Programming  
-- 💻 Object-Oriented Programming (OOP)  
-- 🧮 Data Structures & Algorithms (DSA)  
-- 📊 Statistics & Probability  
-- 📐 Linear Algebra  
-- 🔢 Calculus
-- 🧠 Databases (SQL, NoSQL & MySQL)
+- 🐍 **Python Programming**
+- 💻 **Object-Oriented Programming (OOP)**
+- 🧮 **Data Structures & Algorithms (DSA)**
+- 📊 **Statistics**
+- 🎲 **Probability**
+- 📐 **Linear Algebra**
+- 🔢 **Calculus**
+- 🗄️ **Databases (SQL, NoSQL & MySQL)**
+- 🤖 **Machine Learning**
+- 🧠 **Deep Learning**
+- 🎯 **AI/ML Interview Preparation**
 
 ---
 
